@@ -18,6 +18,6 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+1. This is an example of using the *custom* widget to create your own homepage section.
 
-To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`.
+2. To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`.
