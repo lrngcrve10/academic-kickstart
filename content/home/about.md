@@ -9,13 +9,12 @@ weight = 5
 
 # List your academic interests.
 [interests]
-  interests = [
+  interests =
     "Astro-Informatics",
     "Big-Data Mining Tools",
     "Artificial Intelligence",
     "Information Retrieval"
-    "Image Analysis",
-  ]
+    "Image Analysis"
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
