@@ -6,7 +6,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Academic"
+title = "Encompassing"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -50,20 +50,20 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Joseph Lee Roy Gordon, Jr."
+  role = "Coding Student (C#, F#, R, Spark) and Medical Interpreter"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ {name ="Renton Technical College", url ="rtc.edu"} , {name ="Washington State University", url = "wsu.edu"} ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  email = "lee@jleegordon.com"
+  address = "Renton, Washington"
+  class_hours = "Monday - Friday 8:00 to 11:00 or email for appointment"
+  phone = "206 200 99 16"
+  skype = "leegordon10"
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
@@ -163,20 +163,20 @@ defaultContentLanguageInSubdir = false
   #   The language can be edited below.
   #   For multilingual sites, `publication_types` can be copied to each language section at the end of this file and
   #   translated.
-  publication_types = [
-    'Uncategorized',  # 0
-    'Conference paper',  # 1
-    'Journal article',  # 2
-    'Manuscript',  # 3
-    'Report',  # 4
-    'Book',  # 5
-    'Book section'  # 6
-  ]
+  #   publication_types = [
+  #   'Uncategorized',  # 0
+  #   'Conference paper',  # 1
+  #   'Journal article',  # 2
+  #   'Manuscript',  # 3
+  #   'Report',  # 4
+  #   'Book',  # 5
+  #   'Book section'  # 6
+  # ]
 
   # Configuration of talk pages.
   [params.talks]
     # Show talk time?
-    time = true
+    time = false
 
   # Configuration of publication pages.
   [params.publications]
@@ -187,14 +187,14 @@ defaultContentLanguageInSubdir = false
   # Configuration of project pages.
   [params.projects]
     # List publications and talks related to the project?
-    list_children = true
+    # list_children = false
 
     # Publication list format.
     #   0 = Simple
     #   1 = Detailed
     #   2 = APA
     #   3 = MLA
-    publication_format = 3
+    # publication_format = 3
 
   # Social/Academic Networking
   #
@@ -217,22 +217,22 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:lee@jleegordon.com"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+    link = "//twitter.com/leegordon10"
 
-  [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+   # [[params.social]]
+   #  icon = "google-scholar"
+   #  icon_pack = "ai"
+   #  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "//github.com/lrngcrve10"
 
 
 # Navigation Links
