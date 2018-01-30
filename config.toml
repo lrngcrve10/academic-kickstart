@@ -6,7 +6,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Encompassing"
+title = "Lee's Site"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -51,7 +51,7 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Joseph Lee Roy Gordon, Jr."
-  role = "Coding Student (C#, F#, R, Spark) and Medical Interpreter"
+  role = "Coding Student (C#, F#, R, Spark), Certified Medical Interpreter"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -174,18 +174,18 @@ defaultContentLanguageInSubdir = false
   # ]
 
   # Configuration of talk pages.
-  [params.talks]
-    # Show talk time?
-    time = false
+  # [params.talks]
+  # Show talk time?
+  #  time = false
 
   # Configuration of publication pages.
-  [params.publications]
+  # [params.publications]
     # Date format (refer to Go's date format: http://fuckinggodateformat.com )
     #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-    date_format = "January, 2006"
+    #  date_format = "January, 2006"
 
   # Configuration of project pages.
-  [params.projects]
+  # [params.projects]
     # List publications and talks related to the project?
     # list_children = false
 
@@ -248,10 +248,10 @@ defaultContentLanguageInSubdir = false
   url = "#about"
   weight = 1
 
-[[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
-  weight = 2
+# [[menu.main]]
+#  name = "Publications"
+#  url = "#publications_selected"
+#  weight = 2
 
 [[menu.main]]
   name = "Posts"
@@ -263,10 +263,10 @@ defaultContentLanguageInSubdir = false
   url = "#projects"
   weight = 4
 
-[[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 5
+# [[menu.main]]
+#  name = "Teaching"
+#  url = "#teaching"
+#  weight = 5
 
 [[menu.main]]
   name = "Contact"
