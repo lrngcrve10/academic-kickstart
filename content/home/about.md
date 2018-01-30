@@ -31,5 +31,5 @@ weight = 5
 
 # Biography
 
-Joseph Lee Roy Gordon, Jr. is an avid amateur astronomer, astrophotographer, coding student, and Washington state-certified medical interpreter in Portuguese. 
+Joseph Lee Roy Gordon, Jr. is an avid amateur astronomer, astrophotographer, coding student, and Washington state-certified medical interpreter in Portuguese.
   
